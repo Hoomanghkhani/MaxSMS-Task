@@ -19,7 +19,7 @@
 
 ۱. ابتدا مخزن را از گیت‌هاب کلون کنید:
    ```bash
-   git clone [<REPOSITORY_URL>](https://github.com/Hoomanghkhani/MaxSMS-Task.git)
+   git clone https://github.com/Hoomanghkhani/MaxSMS-Task.git
    ```
    *(لطفاً آدرس ریپازیتوری خود در گیت‌هاب را جایگزین `<REPOSITORY_URL>` نمایید).*
 
